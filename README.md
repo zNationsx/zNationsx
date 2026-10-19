@@ -1,4 +1,4 @@
-# Olá, eu sou [zNationsx] 👋
+# Olá, eu sou o Nations 👋
 
 Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integração de IA e design focado no usuário.
 
@@ -15,7 +15,6 @@ Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integr
 
 ### 💻 Tecnologias & Ferramentas
 
-<!-- Substitua ou altere as badges conforme suas stacks principais -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -29,14 +28,14 @@ Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integr
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zNationsx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNationsx&layout=compact&theme=dark&hide=html,css"/>
 </p>
 
 ---
 
 ### 📬 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://SEU-SITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zNationsx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://znationsx.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
