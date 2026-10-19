@@ -13,6 +13,25 @@ Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integr
 
 ---
 
+### 📌 Projetos em Destaque
+
+#### 📈 [Radar Econômico](https://radar-economico-ruddy.vercel.app)
+Dashboard dinâmico focado em monitoramento e análise de indicadores econômicos e financeiros.
+> **Techs:** `React` • `TypeScript` • `APIs Financeiras` • `Data Viz`  
+> 🔗 **Acesse:** [radar-economico-ruddy.vercel.app](https://radar-economico-ruddy.vercel.app)
+
+#### ⚡ [PokeLink](https://pokelink-site.vercel.app)
+Plataforma interativa para comunidade de jogos/Pokémon com dados em tempo real e integração de API.
+> **Techs:** `Next.js / React` • `Tailwind CSS` • `REST API`  
+> 🔗 **Acesse:** [pokelink-site.vercel.app](https://pokelink-site.vercel.app)
+
+#### 🛡️ [Outage Guild](https://outageguild.com)
+Website oficial e hub comunitário para guilda/comunidade de gaming, com foco em alta performance e UI/UX imersiva.
+> **Techs:** `Full Stack` • `UI/UX Design` • `Web Performance`  
+> 🔗 **Acesse:** [outageguild.com](https://outageguild.com)
+
+---
+
 ### 💻 Tecnologias & Ferramentas
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,4 +57,4 @@ Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zNationsx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://znationsx.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
