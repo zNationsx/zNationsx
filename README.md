@@ -1,4 +1,4 @@
-# Olá, eu sou [Nations] 👋
+# Olá, eu sou [zNationsx] 👋
 
 Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integração de IA e design focado no usuário.
 
