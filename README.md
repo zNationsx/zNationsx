@@ -29,7 +29,7 @@ Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integr
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zNationsx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNationsx&layout=compact&theme=dark&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNationsx&layout=compact&theme=dark"/>
 </p>
 
 ---
@@ -38,4 +38,4 @@ Desenvolvedor Full Stack focado na construção de arquiteturas sólidas, integr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zNationsx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://znationsx.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@
